@@ -1,0 +1,7 @@
+\\win2012\Megosztasok\Kozos\Diákoknak\PG\PG - 11G - proggyak\07 Bérek\Bérek2020\Bérek2020\bin\Debug\Bérek2020.exe.config
+\\win2012\Megosztasok\Kozos\Diákoknak\PG\PG - 11G - proggyak\07 Bérek\Bérek2020\Bérek2020\bin\Debug\Bérek2020.exe
+\\win2012\Megosztasok\Kozos\Diákoknak\PG\PG - 11G - proggyak\07 Bérek\Bérek2020\Bérek2020\bin\Debug\Bérek2020.pdb
+\\win2012\Megosztasok\Kozos\Diákoknak\PG\PG - 11G - proggyak\07 Bérek\Bérek2020\Bérek2020\obj\Debug\Bérek2020.csprojAssemblyReference.cache
+\\win2012\Megosztasok\Kozos\Diákoknak\PG\PG - 11G - proggyak\07 Bérek\Bérek2020\Bérek2020\obj\Debug\Bérek2020.csproj.CoreCompileInputs.cache
+\\win2012\Megosztasok\Kozos\Diákoknak\PG\PG - 11G - proggyak\07 Bérek\Bérek2020\Bérek2020\obj\Debug\Bérek2020.exe
+\\win2012\Megosztasok\Kozos\Diákoknak\PG\PG - 11G - proggyak\07 Bérek\Bérek2020\Bérek2020\obj\Debug\Bérek2020.pdb
