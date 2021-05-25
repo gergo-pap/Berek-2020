@@ -11,11 +11,12 @@ namespace Bérek2020
   {
 	List<DolgozoAdat> adatokLista = new List<DolgozoAdat>();
 	string bekertReszleg = "";
+	  
 	public void MasodikFeladat()
 	{
 	  using (StreamReader sr = new StreamReader("bérek2020.txt", Encoding.UTF8))
 	  {
-		sr.ReadLine();
+		sr.ReadLine();	//Fejléc átugrása
 		while (!sr.EndOfStream)
 		{
 		  DolgozoAdat d = new DolgozoAdat();
